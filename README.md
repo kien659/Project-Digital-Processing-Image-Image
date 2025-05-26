@@ -1,2 +1,2 @@
-# Project-Digital-Processing-Image-Image
+# Project-Digital-Image-Processing
 This project is a simple web application built with Streamlit that allows users to perform various digital image processing operations through an interactive UI on localhost.
